@@ -1,0 +1,7 @@
+{
+  "sspList": [1035],
+  "deviceList": ["Mobile"],
+  "countryList": ["THA"],
+  "cpm": 0.09926034626342324,
+  "ctr": 0.02445759368836292
+}

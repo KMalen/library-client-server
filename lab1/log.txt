@@ -1,0 +1,42 @@
+INFO:root:Server is running on localhost:8080.
+INFO:root:Server is waiting for connection.
+INFO:root:Server connected with ('127.0.0.1', 52606)
+INFO:root:Server received from <socket.socket fd=628, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 52606)> request.
+INFO:root:
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: http://localhost:8080/
+Access-Control-Allow-Method: POST, GET, OPTIONS
+Content-Type: application/json
+
+INFO:root:Server sent ('127.0.0.1', 52606) message,
+ message = b'HTTP/1.1 200 OK \r\nAccess-Control-Allow-Origin: http://localhost:8080/\nAccess-Control-Allow-Method: POST, GET, OPTIONS\r\nContent-Type: application/json\r\n\r\n{\r\r\n  "sspList": [1035],\r\r\n  "deviceList": ["Mobile"],\r\r\n  "countryList": ["THA"],\r\r\n  "cpm": 0.09926034626342324,\r\r\n  "ctr": 0.02445759368836292\r\r\n}' 
+INFO:root:Server connected with ('127.0.0.1', 52615)
+INFO:root:Server received from <socket.socket fd=780, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 52615)> request.
+INFO:root:
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: http://localhost:8080/
+Access-Control-Allow-Method: POST, GET, OPTIONS
+Content-Type: application/json
+
+INFO:root:Server sent ('127.0.0.1', 52615) message,
+ message = b'HTTP/1.1 200 OK \r\nAccess-Control-Allow-Origin: http://localhost:8080/\nAccess-Control-Allow-Method: POST, GET, OPTIONS\r\nContent-Type: application/json\r\n\r\n{\r\r\n  "sspList": [1035],\r\r\n  "deviceList": ["Mobile"],\r\r\n  "countryList": ["THA"],\r\r\n  "cpm": 0.09926034626342324,\r\r\n  "ctr": 0.02445759368836292\r\r\n}' 
+INFO:root:Server connected with ('127.0.0.1', 52617)
+INFO:root:Server received from <socket.socket fd=792, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 52617)> request.
+INFO:root:Server connected with ('127.0.0.1', 52621)
+INFO:root:Server received from <socket.socket fd=768, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 52621)> request.
+INFO:root:
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: http://localhost:8080/
+Access-Control-Allow-Method: POST, GET, OPTIONS
+Content-Type: application/json
+
+INFO:root:Server sent ('127.0.0.1', 52621) message,
+ message = b'HTTP/1.1 200 OK \r\nAccess-Control-Allow-Origin: http://localhost:8080/\nAccess-Control-Allow-Method: POST, GET, OPTIONS\r\nContent-Type: application/json\r\n\r\n{\r\r\n  "sspList": [1035],\r\r\n  "deviceList": ["Mobile"],\r\r\n  "countryList": ["THA"],\r\r\n  "cpm": 0.09926034626342324,\r\r\n  "ctr": 0.02445759368836292\r\r\n}' 
+INFO:root:
+HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: http://localhost:8080/
+Access-Control-Allow-Method: POST, GET, OPTIONS
+Content-Type: text/plain
+
+INFO:root:Server sent ('127.0.0.1', 52617) message,
+ message = b'HTTP/1.1 200 OK \r\nAccess-Control-Allow-Origin: http://localhost:8080/\nAccess-Control-Allow-Method: POST, GET, OPTIONS\r\nContent-Type: text/plain\r\n\r\n{\r\r\n  "sspList": [1035],\r\r\n  "deviceList": ["Mobile"],\r\r\n  "countryList": ["THA"],\r\r\n  "cpm": 0.09926034626342324,\r\r\n  "ctr": 0.02445759368836292\r\r\n}' 
